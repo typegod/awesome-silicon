@@ -10,10 +10,8 @@
 /CLAUDE.md
 /README.md
 
-# Obsidian machine-local state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
+# Obsidian local configuration and state
+/.obsidian/
 .trash/
 
 # Credentials and local environments
