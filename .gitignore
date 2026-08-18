@@ -1,0 +1,29 @@
+# macOS
+.DS*
+._*
+
+# User-requested exclusions from awesome-silicon
+/__raw-materials/
+/technology-reference/
+/investment/
+/AGENTS.md
+/CLAUDE.md
+/README.md
+
+# Obsidian machine-local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Credentials and local environments
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.token
+secrets.*
+.venv/
+__pycache__/
+*.pyc
